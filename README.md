@@ -18,7 +18,7 @@ Campaigns play a crucial role in business growth, but measuring success is key. 
 <p align="center">
   <a href="https://youtu.be/K8udR_K9X6E?si=QMfmZ4QAwcSzl9ok" target="_blank" rel="noopener noreferrer">
     <img 
-      src="https://github.com/aditya-da-3/GoodCabs-Analysis-Codebasics-RPC-13-/blob/main/Images/Goodcabs%20Youtube%20Thumbnail.png" 
+      src="https://github.com/aditya-da-3/Marketing-Campaign-Analysis-Excel/blob/main/Presentation/Marketing%20Campaign%20Analysis%20Excel%20Project%20Thumbnail.png" 
       alt="Presentation Preview" 
       style="width: 70%; max-width: 360px;"
     >
